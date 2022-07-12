@@ -2,3 +2,4 @@ test ja
 - update file to test github
 - update file to local
 - hello world
+- bla bla bla
